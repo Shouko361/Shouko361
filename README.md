@@ -12,5 +12,5 @@
 
 ##
 <div>
-  <a href="https://img.shields.io/website-up-down-green-red/http/monip.org.svg">brenno</a>
+  <img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"
 </div>
