@@ -4,7 +4,7 @@
 - 🌱 Atualmente estou estudando Ciência da Computação
 - 📫 Como chegar até mim: Brenno@brennofideles.com.br
 
-<div align="center">
+<div align="">
   <a href="https://github.com/Shouko361">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shouko361&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shouko361&theme=dark"/>
