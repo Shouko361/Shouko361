@@ -14,5 +14,5 @@
 <div>
   <a href="https://brennofideles.com.br"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"></a>
   <a href="https://t.me/Shouko3613"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="www.linkedin.com/in/brenno-fideles-303539163"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/brenno-fideles-303539163"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
