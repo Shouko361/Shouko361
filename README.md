@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Brenno Fideles 👋
 
 - 🔭 Atualmente estou trabalhando com Back-end
-- 🌱 Atualmente estou estudando Ciência da Computação
+- 🌱 Estudando Ciência da Computação
 - 📫 Como chegar até mim: Brenno@brennofideles.com.br
 
 <div align="center">
