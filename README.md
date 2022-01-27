@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou trabalhando com Back-end
 - 🌱 Estudando Ciência da Computação
-- 📫 Como chegar até mim: Brenno@brennofideles.com.br
+- 📫 Como chegar até mim: brenno_sjc@yahoo.com.br
 
 <div align="center">
   <a href="https://github.com/Shouko361">
