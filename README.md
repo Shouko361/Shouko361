@@ -18,11 +18,11 @@
   <img align="center" alt="Shouko-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Shouko-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
   <img align="right" alt="Shouko-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/ZxDrM3c9wMsAAAAC/full-moon.gif">
-</div>
+</ div >
 ##
-<div> 
+<   div   > 
   <a href="https://t.me/Shouko3613"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="https://www.instagram.com/___brenno____/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  < a  href = " https://www.instagram.com/___brenno____/ "  target = "_blank" >< img  src = " https://img.shields.io/badge/-Instagram-%23E4405F?style=for -the-badge&logo=instagram&logoColor=white "  target = "_blank" ></ a >
   <a href = "mailto:bfidegama@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/brenno-fideles-303539163"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
