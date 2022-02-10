@@ -19,7 +19,7 @@
   <img align="center" alt="Shouko-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
   <img align="right" alt="Shouko-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/ZxDrM3c9wMsAAAAC/full-moon.gif">
 </ div >
-###
+<br>
 <div> 
   <a href="https://t.me/Shouko3613"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href = "https://www.instagram.com/___brenno____/"  target="_blank" ><img  src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for -the-badge&logo=instagram&logoColor=white "  target = "_blank" ></ a >
