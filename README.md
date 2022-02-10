@@ -2,8 +2,6 @@
 
 - 🔭 Atualmente estou trabalhando com Back-end
 - 🌱 Estudando Ciência da Computação
-- 📫 Como chegar até mim: brenno_sjc@yahoo.com.br
-
 <div align="center">
   <a href="https://github.com/Shouko361">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shouko361&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
