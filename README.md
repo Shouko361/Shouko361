@@ -16,8 +16,9 @@
   <img align="center" alt="Shouko-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Shouko-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
   <img align="right" alt="Shouko-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/ZxDrM3c9wMsAAAAC/full-moon.gif">
+  <img align="center" alt="Shouko361"  src="https://komarev.com/ghpvc/?username=Shouko361&style=flat-square">
 </ div >
-<img align="center" alt="Shouko361"  src="https://komarev.com/ghpvc/?username=Shouko361&style=flat-square">
+
  ##
  
 <div> 
